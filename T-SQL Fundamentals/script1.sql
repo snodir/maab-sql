@@ -1,0 +1,1 @@
+insert into dbo.people values(1, 'Ali'),(2, 'Soli')

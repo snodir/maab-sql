@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Training 9-31">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-20RAN2E:DESKTOP-20RAN2E\NODIR">
+          <Created>2022-02-23T23:01:21.0843979+05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-20RAN2E</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="data1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data10.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data11.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data11.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data12.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data12.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data13.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data13.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data14.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data14.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data15.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data15.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data16.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data16.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data17.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data17.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data18.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data18.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data19.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data19.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data20.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data20.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data21.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data21.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data22.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data22.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data23.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data23.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data24.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data24.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data25.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data25.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data26.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data26.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data27.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data27.sql</FullPath>
+        </FileNode>
+        <FileNode Name="class28.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>class28.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data29.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data29.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data30.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data30.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data4_1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data4_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data7.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>data7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="data9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>data9.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Entwurf.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Entwurf.sql</FullPath>
+        </FileNode>
+        <FileNode Name="exercise.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>exercise.sql</FullPath>
+        </FileNode>
+        <FileNode Name="extra.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>extra.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="like.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>like.sql</FullPath>
+        </FileNode>
+        <FileNode Name="NewExercises.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>NewExercises.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

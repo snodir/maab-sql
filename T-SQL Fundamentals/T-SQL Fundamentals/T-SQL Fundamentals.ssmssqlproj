@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="T-SQL Fundamentals">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-20RAN2E:DESKTOP-20RAN2E\NODIR">
+          <Created>2022-02-23T23:19:26.6182408+05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-20RAN2E</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CrossApply.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CrossApply.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Development.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Development.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Entwurf.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Entwurf.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IndexesTryCatch.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>IndexesTryCatch.sql</FullPath>
+        </FileNode>
+        <FileNode Name="object1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>object1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="OLAP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>OLAP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="OLTP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>OLTP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Production.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Production.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL_int_questions_for_juniors.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL_int_questions_for_juniors.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLpuzzles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLpuzzles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ssis1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ssis1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ssis2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ssis2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ssis3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ssis3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ssis4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ssis4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ssis5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ssis5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ssis6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ssis6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ssis7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ssis7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SSISscheduling.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SSISscheduling.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SSISwithBekLinkedServer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SSISwithBekLinkedServer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TechBrothers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TechBrothers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UzbekProjects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-20RAN2E:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-20RAN2E</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UzbekProjects.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
